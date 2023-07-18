@@ -1,0 +1,58 @@
+ul.todo {
+    margin-bottom: 0;
+    list-style: none!important;
+}
+
+.todo li {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    margin: 0 5px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.todo-description {
+    position: relative;
+    padding: 10px 25px 0;
+    width: 100%;
+    display: block;
+}
+
+.todo-date {
+    padding: 0 25px 14px;
+    display: block;
+}
+
+.todo-checkbox{
+    position: absolute;
+    margin-left: 0px;
+    z-index: 9;
+}
+.padding {
+    padding: 20px;
+}
+
+.todo-page .material-icons {
+    top: 5px;
+    position: relative;
+}
+.mright5 {
+    margin-right: 5px;
+}
+.todo-dragger {
+    width: 19px;
+    height: 25px;
+    position: absolute;
+    z-index: 9;
+    background-color: #607D8B !important;
+    top: 15px;
+    right: 1px;
+    color: aliceblue;
+}
+.dragger {
+    cursor: move;
+}
+
+.dragger i {
+    margin: -4px 0px 0px -3px;
+}

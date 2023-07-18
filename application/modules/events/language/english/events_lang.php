@@ -1,0 +1,26 @@
+<?php 
+$lang['events']= 'Events';
+$lang['event_calendar']= 'Event Calendar';
+$lang['add_event']= 'Add Event';
+$lang['event_details']= 'Event Details';
+$lang['close'] = 'Close';
+$lang['save']= 'Save';
+$lang['ajax_modal:_set_data-action-url!'] = 'Ajax Modal: Set data-action-url!';
+$lang['title'] = 'Title';
+$lang['description']= 'Description';
+$lang['start_date']= 'Start date';
+$lang['start_time']= 'Start time';
+$lang['end_date']= 'End date';
+$lang['end_time']= 'End time';
+$lang['location']= 'Location';
+$lang['labels']= 'Labels';
+$lang['delete_event']= 'Delete Event';
+$lang['edit_event']= 'Edit Event';
+$lang['today']= 'Today';
+$lang['tomorrow']= 'Tomorrow';
+$lang["language_locale"] = "en";
+$lang['confirmation']= 'Confirmation';
+$lang['do_you_really_want_to_delete']= 'Do you really want to delete?';
+$lang['yes']= 'Yes';
+$lang['no']= 'No';
+$lang['extension_is_not_activate'] = 'Extension is not activate';
